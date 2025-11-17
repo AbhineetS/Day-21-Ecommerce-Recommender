@@ -1,0 +1,3 @@
+- Add hyperparameter tuning
+- Improve hybrid scoring
+- Add product images for content-based filtering
